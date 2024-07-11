@@ -5,8 +5,8 @@ import Modal from "@/components/Modal";
 
 
 export const metadata: Metadata = {
-  title: "Trell-IO",
-  description: "Trell-IO is a collaborative project management tool that uses boards, lists, and cards for task organization. It features an intuitive drag-and-drop interface, real-time updates, and integrates with multiple platforms. Trello enhances team productivity and workflow management, making it ideal for Agile methodologies and project tracking.",
+  title: "task-o",
+  description: "Task-o is a collaborative project management tool that uses boards, lists, and cards for task organization. It features an intuitive drag-and-drop interface, real-time updates, and integrates with multiple platforms. Task-o enhances team productivity and workflow management, making it ideal for Agile methodologies and project tracking.",
 };
 
 export default function RootLayout({
